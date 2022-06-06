@@ -36,5 +36,6 @@
 
     <!-- Messages -->
     <string name="set_permissions_in_settings">Go to Settings -> Apps and Notifications ->
-        WorkManager Demo -> App Permissions and grant access to Storage.</string>
+        WorkManager Demo -> App Permissions and grant access to Storage.
+    </string>
 </resources>
